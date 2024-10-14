@@ -4,10 +4,17 @@
 ________
 
 ENG - Installation Guide: 
-For Windows users: please  unzip the files before running the software! 
-For Mac users: if the system settings prevent you from running the program, please go to System Setting -> Security Setting -> Allow Applications Dowloaded From ...-> click Open Anyway.  Then re-open the program, allow it, and then it should run!
+
+For Windows users: 
+please  unzip the files before running the software! 
+
+For Mac users: 
+if the system settings prevent you from running the program, please go to 
+System Setting -> Security Setting -> Allow Applications Dowloaded From ...-> click Open Anyway.  
+Then re-open the program, allow it, and then it should run!
 Enjoy^_^
 
+________
 
 CHN - 常见问题解决方案
 
