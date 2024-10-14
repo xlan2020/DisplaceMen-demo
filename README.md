@@ -1,5 +1,9 @@
-1.2.6 has the shop feature, though the inventory is not fully developed. This version fixes the bugs 1.2.5 had but is not fully tested.
-1.2.5 has minor bugs; only one was found causing crashes, and it is relatively unstable.
+1.2.6 
+- has the shop feature, though the inventory has not been fully developed. 
+- fixes the bugs 1.2.5 had but is not thoroughly tested. 
+
+1.2.5 
+- has minor bugs; only one was found to cause crashes, and it is relatively unstable.
 
 ________
 
