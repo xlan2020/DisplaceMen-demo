@@ -3,7 +3,7 @@
 - fixes the bugs 1.2.5 had but is not thoroughly tested. 
 
 1.2.5 
-- has minor bugs; only one was found to cause crashes, and it is relatively unstable.
+- has minor bugs; only one was found to cause crashes, and it is relatively stable.
 
 ________
 
