@@ -1,13 +1,14 @@
 1.2.6 has the shop feature, though the inventory is not fully developed. This version fixes the bugs 1.2.5 had but is not fully tested.
 1.2.5 has minor bugs; only one was found causing crashes, and it is relatively unstable.
 
+________
+
 ENG - Installation Guide: 
 For Windows users: please  unzip the files before running the software! 
 For Mac users: if the system settings prevent you from running the program, please go to System Setting -> Security Setting -> Allow Applications Dowloaded From ...-> click Open Anyway.  Then re-open the program, allow it, and then it should run!
 Enjoy^_^
 
 
-________
 CHN - 常见问题解决方案
 
 macOS: 
